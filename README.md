@@ -1,8 +1,8 @@
-#This makes text bigger
-##a bit smaller
-###even smaller
+# This makes text bigger
+## a bit smaller
+## #even smaller
 
-#new paragraph
+# new paragraph
 this is normal text
 
 List:
